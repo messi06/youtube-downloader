@@ -24,9 +24,7 @@
 
 
 <script>
-    $(function () {
-
-        window.onload(function () {
+   
 
             var url = $("#txt_url").val();
 
@@ -62,11 +60,7 @@
                 var video = $("video");
                 video.attr('src', stream_url);
                 video[0].load();
-            });
-
-        });
-
-    });
+       
 </script>
 
 </body>

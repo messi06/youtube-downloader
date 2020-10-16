@@ -60,7 +60,7 @@
                 var video = $("video");
                 video.attr('src', stream_url);
                 video[0].load();
-       
+        });
 </script>
 
 </body>

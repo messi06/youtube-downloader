@@ -22,9 +22,11 @@
 </video>
 
 
+
 <script>
- 
-  
+    $(function () {
+
+        window.onload(function () {
 
             var url = $("#txt_url").val();
 
@@ -62,7 +64,9 @@
                 video[0].load();
             });
 
-      
+        });
+
+    });
 </script>
 
 </body>

@@ -17,7 +17,7 @@
 </form>
 
 <video width="800" height="600" controls>
-    <source src="" type="video/m3u8"/>
+    <source src="" type="video/mp4"/>
     <em>Sorry, your browser doesn't support HTML5 video.</em>
 </video>
 
@@ -71,4 +71,4 @@
 
 </body>
 </html>
-
+ 

@@ -23,9 +23,8 @@
 
 
 <script>
-    $(function () {
-
-        $("#btn_fetch").click(function () {
+ 
+  
 
             var url = $("#txt_url").val();
 
@@ -63,9 +62,7 @@
                 video[0].load();
             });
 
-        });
-
-    });
+      
 </script>
 
 </body>
